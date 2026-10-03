@@ -1,0 +1,18 @@
+# 生成的产物（可随时重新生成）
+__pycache__/
+cache/
+selftest_out/
+
+# 参考项目与本机分析产物，不属于本仓库源码
+reference/
+analysis/
+
+# 版权保护：绝不能提交受版权保护的歌曲音频
+input/*.mp3
+input/*.wav
+input/*.m4a
+input/*.wma
+input/*.flac
+input/*.ogg
+input/*.aac
+input/*.opus

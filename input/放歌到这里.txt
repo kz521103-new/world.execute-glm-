@@ -1,0 +1,5 @@
+把你的《world.execute(me);》音频文件放到这个文件夹：
+  song.mp3（或 .wav / .m4a / .wma）
+
+版权原因仓库不附带这首歌，请使用你自己拥有的副本。
+放置后运行 python wem.py 即可。
